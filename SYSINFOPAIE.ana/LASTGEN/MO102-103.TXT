@@ -1,0 +1,2 @@
+//MO102-103.TXT ANA00102 TO ANA00103
+Connexion au serveur Massidi-PC, base BDSYSINFOPAIE		CNX		

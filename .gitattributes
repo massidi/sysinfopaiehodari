@@ -1,0 +1,2 @@
+SYSINFOPAIE.ana/* filter=lfs diff=lfs merge=lfs -text
+SYSINFOPAIE.ana/**/*.fic filter=lfs diff=lfs merge=lfs -text
